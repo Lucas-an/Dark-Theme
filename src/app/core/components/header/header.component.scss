@@ -21,6 +21,11 @@
         }
         &:last-child {
           padding: 0;
+          button {
+            img {
+              width: 21px;
+            }
+          }
         }
       }
     }
